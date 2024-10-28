@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0kvbunGLKUA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mani Deep\\source\\repos\\GoogleLogin\\GoogleLogin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mani Deep\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\8.0.10\\microsoft.aspnetcore.authentication.google.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
